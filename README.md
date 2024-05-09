@@ -4,8 +4,7 @@ A simple program developed in C that assists professors with finalizing grades f
 
 ## Installation
 
-```bash
-# Example
+```
 git clone https://github.com/P541M/ALT1300-Grade-Calculator.git
 cd ALT1300-Grade-Calculator
 ```
